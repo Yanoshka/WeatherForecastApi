@@ -1,0 +1,58 @@
+﻿@model WeatherForecastApp.Models.City
+
+@{
+    ViewData["Title"] = "City";
+}
+<div class="container ">
+<div class="container">
+<div class="form-group col-md-offset-3 col-md-5">
+            <h2>Forecast For Selected City</h2>
+    <label asp-for="Name"></label>
+    <span class="badge alert-primary">@Model.Name</span><br />
+
+    <label asp-for="Temperature"></label>
+    <span class="badge alert-primary">@Model.Temperature °C</span><br />
+
+    <label asp-for="FeelsLike"></label>
+    <span class="badge alert-primary">@Model.FeelsLike °C</span><br />
+
+    <label asp-for="TempMin"></label>
+    <span class="badge alert-primary">@Model.TempMin °C</span><br />
+
+    <label asp-for="TempMax"></label>
+    <span class="badge alert-primary">@Model.TempMax °C</span><br />
+
+    <label asp-for="Pressure"></label>
+    <span class="badge alert-primary">@Model.Pressure hPa</span><br />
+
+    <label asp-for="Humidity"></label>
+    <span class="badge alert-primary">@Model.Humidity %</span><br />
+
+    <label asp-for="WeatherDescription"></label>
+    <span class="badge alert-primary">@Model.WeatherDescription</span><br />
+
+    <label asp-for="WindSpeed"></label>
+    <span class="badge alert-primary">@Model.WindSpeed m/s</span><br />
+
+    <label asp-for="WindDegree"></label>
+    <span class="badge alert-primary">@Model.WindDegree °</span><br />
+
+    <label asp-for="Cloudiness"></label>
+    <span class="badge alert-primary">@Model.Cloudiness %</span><br />
+
+    <label asp-for="Country"></label>
+    <span class="badge alert-primary">@Model.Country</span><br />
+
+    <label asp-for="Sunrise"></label>
+    <span class="badge alert-primary">@Model.Sunrise</span><br />
+
+    <label asp-for="Sunset"></label>
+    <span class="badge alert-primary">@Model.Sunset</span><br />
+    
+    <form method="get">
+        <button asp-controller="WeatherForecast" asp-action="SearchByCity" class="btn btn-primary">Go Back</button>
+
+    </form>
+</div>
+</div>
+</div>

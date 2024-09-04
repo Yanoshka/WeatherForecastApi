@@ -1,0 +1,304 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\weather\\WeatherForecastApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\weather\\WeatherForecastApp\\WeatherForecastApp\\Configuration\\Values.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WeatherForecastApp\\Configuration\\Values.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\weather\\WeatherForecastApp\\WeatherForecastApp\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WeatherForecastApp\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\weather\\WeatherForecastApp\\WeatherForecastApp\\Models\\ErrorViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WeatherForecastApp\\Models\\ErrorViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\weather\\WeatherForecastApp\\WeatherForecastApp\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WeatherForecastApp\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\weather\\WeatherForecastApp\\WeatherForecastApp\\OpenWeatherMap Model\\Sys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WeatherForecastApp\\OpenWeatherMap Model\\Sys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\weather\\WeatherForecastApp\\WeatherForecastApp\\OpenWeatherMap Model\\Weather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WeatherForecastApp\\OpenWeatherMap Model\\Weather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\weather\\WeatherForecastApp\\WeatherForecastApp\\OpenWeatherMap Model\\Wind.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WeatherForecastApp\\OpenWeatherMap Model\\Wind.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\weather\\WeatherForecastApp\\WeatherForecastApp\\OpenWeatherMap Model\\Coord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WeatherForecastApp\\OpenWeatherMap Model\\Coord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\weather\\WeatherForecastApp\\WeatherForecastApp\\OpenWeatherMap Model\\Clouds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WeatherForecastApp\\OpenWeatherMap Model\\Clouds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\weather\\WeatherForecastApp\\WeatherForecastApp\\Models\\City.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WeatherForecastApp\\Models\\City.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\weather\\WeatherForecastApp\\WeatherForecastApp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WeatherForecastApp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\weather\\WeatherForecastApp\\WeatherForecastApp\\Views\\WeatherForecast\\SearchByCity.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WeatherForecastApp\\Views\\WeatherForecast\\SearchByCity.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\weather\\WeatherForecastApp\\WeatherForecastApp\\Views\\WeatherForecast\\City.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WeatherForecastApp\\Views\\WeatherForecast\\City.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\weather\\WeatherForecastApp\\WeatherForecastApp\\Repositories\\WForecastRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WeatherForecastApp\\Repositories\\WForecastRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\weather\\WeatherForecastApp\\WeatherForecastApp\\Repositories\\IWForecastRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WeatherForecastApp\\Repositories\\IWForecastRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\weather\\WeatherForecastApp\\WeatherForecastApp\\Models\\WeatherForecastApp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WeatherForecastApp\\Models\\WeatherForecastApp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\weather\\WeatherForecastApp\\WeatherForecastApp\\Controllers\\WeatherForecastController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WeatherForecastApp\\Controllers\\WeatherForecastController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Values.cs",
+              "DocumentMoniker": "D:\\weather\\WeatherForecastApp\\WeatherForecastApp\\Configuration\\Values.cs",
+              "RelativeDocumentMoniker": "WeatherForecastApp\\Configuration\\Values.cs",
+              "ToolTip": "D:\\weather\\WeatherForecastApp\\WeatherForecastApp\\Configuration\\Values.cs",
+              "RelativeToolTip": "WeatherForecastApp\\Configuration\\Values.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T15:06:23.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Sys.cs",
+              "DocumentMoniker": "D:\\weather\\WeatherForecastApp\\WeatherForecastApp\\OpenWeatherMap Model\\Sys.cs",
+              "RelativeDocumentMoniker": "WeatherForecastApp\\OpenWeatherMap Model\\Sys.cs",
+              "ToolTip": "D:\\weather\\WeatherForecastApp\\WeatherForecastApp\\OpenWeatherMap Model\\Sys.cs",
+              "RelativeToolTip": "WeatherForecastApp\\OpenWeatherMap Model\\Sys.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T19:39:31.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Weather.cs",
+              "DocumentMoniker": "D:\\weather\\WeatherForecastApp\\WeatherForecastApp\\OpenWeatherMap Model\\Weather.cs",
+              "RelativeDocumentMoniker": "WeatherForecastApp\\OpenWeatherMap Model\\Weather.cs",
+              "ToolTip": "D:\\weather\\WeatherForecastApp\\WeatherForecastApp\\OpenWeatherMap Model\\Weather.cs",
+              "RelativeToolTip": "WeatherForecastApp\\OpenWeatherMap Model\\Weather.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T19:39:27.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Wind.cs",
+              "DocumentMoniker": "D:\\weather\\WeatherForecastApp\\WeatherForecastApp\\OpenWeatherMap Model\\Wind.cs",
+              "RelativeDocumentMoniker": "WeatherForecastApp\\OpenWeatherMap Model\\Wind.cs",
+              "ToolTip": "D:\\weather\\WeatherForecastApp\\WeatherForecastApp\\OpenWeatherMap Model\\Wind.cs",
+              "RelativeToolTip": "WeatherForecastApp\\OpenWeatherMap Model\\Wind.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T19:39:25.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Coord.cs",
+              "DocumentMoniker": "D:\\weather\\WeatherForecastApp\\WeatherForecastApp\\OpenWeatherMap Model\\Coord.cs",
+              "RelativeDocumentMoniker": "WeatherForecastApp\\OpenWeatherMap Model\\Coord.cs",
+              "ToolTip": "D:\\weather\\WeatherForecastApp\\WeatherForecastApp\\OpenWeatherMap Model\\Coord.cs",
+              "RelativeToolTip": "WeatherForecastApp\\OpenWeatherMap Model\\Coord.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T19:39:23.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Clouds.cs",
+              "DocumentMoniker": "D:\\weather\\WeatherForecastApp\\WeatherForecastApp\\OpenWeatherMap Model\\Clouds.cs",
+              "RelativeDocumentMoniker": "WeatherForecastApp\\OpenWeatherMap Model\\Clouds.cs",
+              "ToolTip": "D:\\weather\\WeatherForecastApp\\WeatherForecastApp\\OpenWeatherMap Model\\Clouds.cs",
+              "RelativeToolTip": "WeatherForecastApp\\OpenWeatherMap Model\\Clouds.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T19:39:22.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "City.cs",
+              "DocumentMoniker": "D:\\weather\\WeatherForecastApp\\WeatherForecastApp\\Models\\City.cs",
+              "RelativeDocumentMoniker": "WeatherForecastApp\\Models\\City.cs",
+              "ToolTip": "D:\\weather\\WeatherForecastApp\\WeatherForecastApp\\Models\\City.cs",
+              "RelativeToolTip": "WeatherForecastApp\\Models\\City.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAiwA0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T19:38:54.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\weather\\WeatherForecastApp\\WeatherForecastApp\\appsettings.json",
+              "RelativeDocumentMoniker": "WeatherForecastApp\\appsettings.json",
+              "ToolTip": "D:\\weather\\WeatherForecastApp\\WeatherForecastApp\\appsettings.json",
+              "RelativeToolTip": "WeatherForecastApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-12T17:24:37.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SearchByCity.cshtml",
+              "DocumentMoniker": "D:\\weather\\WeatherForecastApp\\WeatherForecastApp\\Views\\WeatherForecast\\SearchByCity.cshtml",
+              "RelativeDocumentMoniker": "WeatherForecastApp\\Views\\WeatherForecast\\SearchByCity.cshtml",
+              "ToolTip": "D:\\weather\\WeatherForecastApp\\WeatherForecastApp\\Views\\WeatherForecast\\SearchByCity.cshtml",
+              "RelativeToolTip": "WeatherForecastApp\\Views\\WeatherForecast\\SearchByCity.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-12T16:34:22.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "City.cshtml",
+              "DocumentMoniker": "D:\\weather\\WeatherForecastApp\\WeatherForecastApp\\Views\\WeatherForecast\\City.cshtml",
+              "RelativeDocumentMoniker": "WeatherForecastApp\\Views\\WeatherForecast\\City.cshtml",
+              "ToolTip": "D:\\weather\\WeatherForecastApp\\WeatherForecastApp\\Views\\WeatherForecast\\City.cshtml",
+              "RelativeToolTip": "WeatherForecastApp\\Views\\WeatherForecast\\City.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-12T16:34:21.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\weather\\WeatherForecastApp\\WeatherForecastApp\\Program.cs",
+              "RelativeDocumentMoniker": "WeatherForecastApp\\Program.cs",
+              "ToolTip": "D:\\weather\\WeatherForecastApp\\WeatherForecastApp\\Program.cs",
+              "RelativeToolTip": "WeatherForecastApp\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T16:34:13.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WForecastRepository.cs",
+              "DocumentMoniker": "D:\\weather\\WeatherForecastApp\\WeatherForecastApp\\Repositories\\WForecastRepository.cs",
+              "RelativeDocumentMoniker": "WeatherForecastApp\\Repositories\\WForecastRepository.cs",
+              "ToolTip": "D:\\weather\\WeatherForecastApp\\WeatherForecastApp\\Repositories\\WForecastRepository.cs",
+              "RelativeToolTip": "WeatherForecastApp\\Repositories\\WForecastRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T16:34:11.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IWForecastRepository.cs",
+              "DocumentMoniker": "D:\\weather\\WeatherForecastApp\\WeatherForecastApp\\Repositories\\IWForecastRepository.cs",
+              "RelativeDocumentMoniker": "WeatherForecastApp\\Repositories\\IWForecastRepository.cs",
+              "ToolTip": "D:\\weather\\WeatherForecastApp\\WeatherForecastApp\\Repositories\\IWForecastRepository.cs",
+              "RelativeToolTip": "WeatherForecastApp\\Repositories\\IWForecastRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T16:34:10.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "WeatherForecastApp.cs",
+              "DocumentMoniker": "D:\\weather\\WeatherForecastApp\\WeatherForecastApp\\Models\\WeatherForecastApp.cs",
+              "RelativeDocumentMoniker": "WeatherForecastApp\\Models\\WeatherForecastApp.cs",
+              "ToolTip": "D:\\weather\\WeatherForecastApp\\WeatherForecastApp\\Models\\WeatherForecastApp.cs",
+              "RelativeToolTip": "WeatherForecastApp\\Models\\WeatherForecastApp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T16:34:06.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\weather\\WeatherForecastApp\\WeatherForecastApp\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "WeatherForecastApp\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\weather\\WeatherForecastApp\\WeatherForecastApp\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "WeatherForecastApp\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T16:34:02.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\weather\\WeatherForecastApp\\WeatherForecastApp\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "WeatherForecastApp\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\weather\\WeatherForecastApp\\WeatherForecastApp\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "WeatherForecastApp\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T16:33:31.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\weather\\WeatherForecastApp\\WeatherForecastApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WeatherForecastApp\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\weather\\WeatherForecastApp\\WeatherForecastApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WeatherForecastApp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T16:33:29.297Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

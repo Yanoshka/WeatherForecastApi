@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\WeatherForecastApp",
+    "\\WeatherForecastApp\\bin",
+    "\\WeatherForecastApp\\Configuration",
+    "\\WeatherForecastApp\\Controllers",
+    "\\WeatherForecastApp\\Models",
+    "\\WeatherForecastApp\\obj",
+    "\\WeatherForecastApp\\OpenWeatherMap Model",
+    "\\WeatherForecastApp\\Properties",
+    "\\WeatherForecastApp\\Repositories"
+  ],
+  "SelectedNode": "\\WeatherForecastApp\\Configuration\\Values.cs",
+  "PreviewInSolutionExplorer": false
+}
